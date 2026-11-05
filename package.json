@@ -1,6 +1,6 @@
 {
   "name": "@apigames/async-interval",
-  "version": "27.1.0",
+  "version": "27.1.1",
   "description": "Modern version of setInterval for promises and async functions available in Node.js and browsers.",
   "repository": {
     "type": "git",
@@ -55,7 +55,7 @@
   "author": "Emilio Almansi",
   "license": "MIT",
   "engines": {
-    "node": ">= 14.0.0"
+    "node": ">=26"
   },
   "scripts": {
     "clean": "rimraf dist",
